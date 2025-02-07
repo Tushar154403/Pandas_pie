@@ -1,2 +1,2 @@
-# Pandas_pie
+# Py_Game
 Focus Minder ( My first Project)
